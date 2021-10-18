@@ -5,14 +5,14 @@ namespace ConsoleApplication1
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args)  
         {
 
             
             int equaçao, contador, numero;
 
            
-            Console.Write("INSIRA UM NUMERO PARA OBTER UMA TABUADA  : ");
+            Console.Write("POR FAVOR INSIRA QUALQUER NUMERO PARA OBTER UMA TABUADA ^-^ ");
             numero = Int32.Parse(Console.ReadLine());
 
             
